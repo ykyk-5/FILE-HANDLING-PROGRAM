@@ -12,4 +12,6 @@ DURATION: 4 WEEKS
 
 MENTOTR: NEELA SANTHOSH
 
+#OUTPUT
+
 ![Image](https://github.com/user-attachments/assets/680c522f-4b93-4480-9f5a-53fabbe0716c)
